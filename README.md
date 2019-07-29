@@ -7,12 +7,12 @@ I try to implement a way to customize this plugin, so you can choose, which ore 
 You also will be aible to f.e. set COBBLE_STONE to BEDROCK, so on a server with multiple worlds you can create a Mining world where only ores can get mined and if you mine COBBLE_STONE you won't able to dig deeper.
 
 # Currently its working like this:
-1. if EMERALD_ORE  -> transforms to -> DIAMOND_ORE
-2. if DIAMOND_ORE  -> transforms to -> REDSTONE_ORE
-3. if REDSTONE_ORE -> transforms to -> LAPIS_ORE
-4. if LAPIS_ORE -> transforms to -> GOLD_ORE
-5. if GOLD_ORE -> transforms to -> IRON_ORE
-6. if IRON_ORE -> transforms to -> COAL_ORE
-7. if COAL_ORE -> transforms to -> STONE
+- if EMERALD_ORE  -> transforms to -> DIAMOND_ORE
+- if DIAMOND_ORE  -> transforms to -> REDSTONE_ORE
+- if REDSTONE_ORE -> transforms to -> LAPIS_ORE
+- if LAPIS_ORE -> transforms to -> GOLD_ORE
+- if GOLD_ORE -> transforms to -> IRON_ORE
+- if IRON_ORE -> transforms to -> COAL_ORE
+- if COAL_ORE -> transforms to -> STONE
 
 *All other Blocks are still vanilla!*
