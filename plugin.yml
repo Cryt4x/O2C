@@ -1,0 +1,10 @@
+name: OreToCobble
+author: CryT4x
+version: 1.1
+api-version: 1.14
+main: de.cryt4x.oretocobble.main.Main
+website: https://cryt4x.blogspot.com/
+commands:
+   oreToCobbleInfo:
+      aliases: [ctpl3]
+      description: Shows info about the plugin!
