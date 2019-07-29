@@ -15,4 +15,4 @@ You also will be aible to f.e. set COBBLE_STONE to BEDROCK, so on a server with 
 6. if IRON_ORE -> transforms to -> COAL_ORE
 7. if COAL_ORE -> transforms to -> STONE
 
-*All other Blocks are* still *vanilla*!
+_All other Blocks are still_ *vanilla*!
